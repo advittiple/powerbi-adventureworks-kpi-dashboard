@@ -5,7 +5,7 @@ The project demonstrates how raw business data can be transformed into actionabl
 
 ## Project Overview
 
-You’ll step into the role of a Business Intelligence Analyst at **AdventureWorks Cycles**, a fictional global manufacturing company. Your objective is to transform raw operational data into professional-quality dashboards that:
+As part of this project, I worked as a Business Intelligence Analyst for AdventureWorks Cycles, a fictional global manufacturing company. I transformed raw operational data into professional-quality dashboards that:
 - Track Key Performance Indicators (KPIs)
 - Compare regional sales performance
 - Analyze product-level trends
