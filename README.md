@@ -3,7 +3,7 @@
 This Power BI dashboard project showcases a comprehensive business intelligence solution built for a fictional manufacturing company, AdventureWorks Cycles. 
 The project demonstrates how raw business data can be transformed into actionable insights through structured data modeling, interactive visualizations, and performance-driven reporting—reflecting real-world scenarios faced by data professionals.
 
-## 🚀 Project Overview
+## Project Overview
 
 You’ll step into the role of a Business Intelligence Analyst at **AdventureWorks Cycles**, a fictional global manufacturing company. Your objective is to transform raw operational data into professional-quality dashboards that:
 - Track Key Performance Indicators (KPIs)
@@ -11,7 +11,7 @@ You’ll step into the role of a Business Intelligence Analyst at **AdventureWor
 - Analyze product-level trends
 - Identify and retain high-value customers
 
-## 📊 Dashboard Highlights
+## Dashboard Highlights
 
 - Sales by Region & Channel
 - Top Performing Products & Categories
@@ -19,7 +19,7 @@ You’ll step into the role of a Business Intelligence Analyst at **AdventureWor
 - Profitability and Revenue Trends Over Time
 - Dynamic Filtering and Drill-Down Capabilities
 
-## 🔧 Tools & Technologies Used
+## Tools & Technologies Used
 
 - **Power BI Desktop**
 - **DAX (Data Analysis Expressions)**
